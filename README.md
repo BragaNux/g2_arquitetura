@@ -93,13 +93,6 @@ docker run --rm --network=g2_app-net -v $PWD/k6-scripts:/scripts grafana/k6 run 
 
 O documento `docs/architecture.md` detalha fluxos, tópicos Kafka e o papel de cada serviço, incluindo diagramas atualizados.
 
-## Conformidade da Reescrita
-
-- Não há referências a identificadores pessoais originais.
-- Estrutura textual e explicações reescritas integralmente.
-- Diagramas e exemplos novos.
-- Mantidos apenas os pilares técnicos solicitados.
-
 ## Licença
 
 Projeto para fins acadêmicos e de demonstração de arquitetura distribuída.
